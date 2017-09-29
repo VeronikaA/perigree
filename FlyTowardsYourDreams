@@ -1,3 +1,43 @@
+<div class="container">
+
+  <header>
+    <h2><strong><a href="#"><i class="ion-plane"></i> Fly Towards Your Dreams</strong></a></h2>
+    <nav>
+      <ul>
+        <li>
+          <a href="#" title="Hotels">Hotels</a>
+        </li>
+        <li>
+          <a href="#" title="Flights">Flights</a>
+        </li>
+        <li>
+          <a href="#" title="Tours">Tours</a>
+        </li>
+        <li>
+          <a class="btn" href="#" title="Register / Log In">Register/Log In</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="cover">
+    <h3>Discover your next destination</h3>
+    <form  class="flex-form">
+      <label for="from">
+        <i class="ion-location"></i>
+      </label>
+      <input type="search" placeholder="Where do you want to go?">
+      <input type="submit" value="Search">
+    </form>
+    <div id="madeby">
+      <span>
+        Fly<a href="https://livingintuitively.files.wordpress.com/2011/06/woman-flying-over-sea.jpg" target="_blank"> Away </a>
+      </span>
+    </div>
+  </div>
+
+</div>
+
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
 *, *:before, *:after {
